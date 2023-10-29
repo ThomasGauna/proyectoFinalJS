@@ -1,0 +1,185 @@
+[
+    {
+        "id": "linterna1",
+        "titulo": "Linterna 1",
+        "imagen": "./img/linterna1.jpg",
+        "categoria": {
+            "nombre": "Linternas y Faroles",
+            "id": "lintFarol"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "linterna2",
+        "titulo": "Linterna 2",
+        "imagen": "./img/linterna2.jpg",
+        "categoria": {
+            "nombr": "Linternas y Faroles",
+            "id": "lintFarol"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "linterna3",
+        "titulo": "Linterna 3",
+        "imagen": "./img/linterna3.jpg",
+        "categoria": {
+            "nombre": "Linternas y Faroles",
+            "id": "lintFarol"
+        },
+        "precio": 2800
+    },
+    {
+       "id": "farol1",
+        "titulo": "Farol 1",
+        "imagen": "./img/farol.jpg",
+        "categoria": {
+            "nombre": "Linternas y Faroles",
+            "id": "lintFarol"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "farol2",
+        "titulo": "Farol 2",
+        "imagen": "./img/farol2.jpg",
+        "categoria": {
+            "nombre": "Linternas y Faroles",
+            "id": "lintFarol"
+        },
+        "precio": 4100
+    },
+    
+    {
+        "id": "carpa1",
+        "titulo": "Carpa 1",
+        "imagen": "./img/carpa1.jpg",
+        "categoria": {
+            "nombre": "Carpas",
+            "id": "carpas"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "carpa2",
+        "titulo": "Carpa 2",
+        "imagen": "./img/carpa2.jpg",
+        "categoria": {
+            "nombre": "Carpas",
+            "id": "carpas"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "carpa3",
+        "titulo": "Carpa 3",
+        "imagen": "./img/carpa3.jpg",
+        "categoria": {
+            "nombre": "Carpas",
+            "id": "carpas"
+        },
+        "precio": 16200
+    },
+    {
+        "id": "carpa4",
+        "titulo": "Carpa 4",
+        "imagen": "./img/carpa4.jpg",
+        "categoria": {
+            "nombre": "Carpas",
+            "id": "carpas"
+        },
+        "precio": 18100
+    },
+    {
+        "id": "carpa5",
+        "titulo": "Carpa 5",
+        "imagen": "./img/carpa5.jpg",
+        "categoria": {
+            "nombre": "Carpas",
+            "id": "carpas"
+        },
+        "precio": 17500
+    },
+    {
+        "id": "carpa6",
+        "titulo": "Carpa 6",
+        "imagen": "./img/carpa6.jpg",
+        "categoria": {
+            "nombre": "Carpas",
+            "id": "carpas"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "carpa7",
+        "titulo": "Carpa 7",
+        "imagen": "./img/carpa7.jpg",
+        "categoria": {
+            "nombre": "Carpas",
+            "id": "carpas"
+        },
+        "precio": 20000
+    },
+    
+    {
+        "id": "anafe1",
+        "titulo": "Anafe 1",
+        "imagen": "./img/anafe1.jpg",
+        "categoria": {
+            "nombre": "Anafes",
+            "id": "anafes"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "anafe2",
+        "titulo": "Anafe 2",
+        "imagen": "./img/anafe2.png",
+        "categoria": {
+            "nombre": "Anafes",
+            "id": "anafes"
+        },
+        "precio": 7200
+    },
+    {
+        "id": "anafe3",
+        "titulo": "Anafe 3",
+        "imagen": "./img/anafe3.jpg",
+        "categoria": {
+            "nombre": "Anafes",
+            "id": "anafes"
+        },
+        "precio": 8000
+    },
+    
+    {
+        "id": "bolsaDormir",
+        "titulo": "Bolsa de Dormir 1",
+        "imagen": "./img/bolsaDormir1.jpg",
+        "categoria": {
+            "nombre": "Bolsa de Dormir",
+            "id": "bolsasDormir"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "bolsaDormir",
+        "titulo": "Bolsa de Dormir 2",
+        "imagen": "./img/bolsaDormir2.jpg",
+        "categoria": {
+            "nombre": "Bolsa de Dormir",
+            "id": "bolsasDormir"
+        },
+        "precio": 9800
+    },
+    {
+        "id": "bolsaDormir",
+        "titulo": "Bolsa de Dormir 3",
+        "imagen": "./img/bolsaDormir3.jpg",
+        "categoria": {
+            "nombre": "Bolsa de Dormir",
+            "id": "bolsasDormir"
+        },
+        "precio": 9000
+    }
+]
